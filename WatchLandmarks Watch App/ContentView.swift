@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  MacLandmarks
+//  WatchLandmarks Watch App
 //
-//  Created by bMatheron on 02/06/2023.
+//  Created by bMatheron on 31/05/2023.
 //
 
 import SwiftUI
